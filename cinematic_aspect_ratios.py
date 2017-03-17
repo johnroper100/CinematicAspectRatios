@@ -140,7 +140,7 @@ def register():
         update=CAR_update_resolution)
     bpy.types.Scene.CAR_ratios = EnumProperty(
         items=ratios,
-        name="Aspect Ratios",
+        name="Aspect Ratio",
         description="the output image ratio",
         default="1.77:1",
         update=CAR_update_resolution)
