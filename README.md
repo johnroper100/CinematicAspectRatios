@@ -1,6 +1,8 @@
 # Cinematic Aspect Ratios
 An addon for Blender which helps you setup the correct resolutions for many different aspect ratios and sizes.
 
+![Screenshot](https://raw.githubusercontent.com/johnroper100/CinematicAspectRatios/master/screenshot.png)
+
 ## Supported Sizes:
 
 * 5k
